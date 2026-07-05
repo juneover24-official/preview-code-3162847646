@@ -1,7 +1,7 @@
 {
   "qq_number": "3162847646",
   "group_number": "1042967609",
-  "updated_at": "2026-07-05T06:42:38+00:00",
+  "updated_at": "2026-07-05T06:46:00+00:00",
   "skins": [
     {
       "name": "卡娜赫拉贴贴",
@@ -28,16 +28,16 @@
       "full": "熊绵の薄巧兔熊贴贴.bds_py_26_light_thumb.png"
     },
     {
-      "name": "薄巧兔熊贴贴",
-      "file": "熊绵の薄巧兔熊贴贴彩底.bdi",
-      "thumb": "熊绵の薄巧兔熊贴贴彩底.bdi_py_26_light_thumb.png",
-      "full": "熊绵の薄巧兔熊贴贴彩底.bdi_py_26_light_thumb.png"
-    },
-    {
       "name": "薄巧兔熊贴贴融合底",
       "file": "熊绵の薄巧兔熊贴贴融合底.bdi",
       "thumb": "熊绵の薄巧兔熊贴贴融合底.bdi_py_26_light_thumb.png",
       "full": "熊绵の薄巧兔熊贴贴融合底.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "薄巧兔熊贴贴",
+      "file": "熊绵の薄巧兔熊贴贴彩底.bdi",
+      "thumb": "熊绵の薄巧兔熊贴贴彩底.bdi_py_26_light_thumb.png",
+      "full": "熊绵の薄巧兔熊贴贴彩底.bdi_py_26_light_thumb.png"
     }
   ]
 }

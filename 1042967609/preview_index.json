@@ -1,7 +1,7 @@
 {
   "qq_number": "3162847646",
   "group_number": "1042967609",
-  "updated_at": "2026-07-29T10:36:45+00:00",
+  "updated_at": "2026-10-30T15:29:53+00:00",
   "skins": [
     {
       "name": "卡娜赫拉贴贴",
@@ -56,6 +56,13 @@
       "file": "熊绵の甜梦猫贴贴融合底.bdi",
       "thumb": "熊绵の甜梦猫贴贴融合底.bdi_py_26_light_thumb.png",
       "full": "熊绵の甜梦猫贴贴融合底.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "熊の晴雨与蛙贴贴",
+      "file": "熊绵の晴雨与蛙贴贴.bdi",
+      "thumb": "熊绵の晴雨与蛙贴贴.bdi_py_26_light_thumb.png",
+      "full": "熊绵の晴雨与蛙贴贴.bdi_py_26_light_thumb.png",
+      "file_id": "5d12cb9f9543d76d08da30c21de74b16"
     }
   ]
 }

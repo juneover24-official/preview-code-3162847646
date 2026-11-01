@@ -1,7 +1,7 @@
 {
   "qq_number": "3162847646",
   "group_number": "1130768335",
-  "updated_at": "2026-11-01T06:36:01+00:00",
+  "updated_at": "2026-11-01T06:36:18+00:00",
   "skins": [
     {
       "name": "熊の猪猪日常贴贴",
@@ -9,6 +9,13 @@
       "thumb": "熊绵の猪猪日常贴贴.bds_py_26_light_thumb.png",
       "full": "熊绵の猪猪日常贴贴.bds_py_26_light_thumb.png",
       "file_id": "83dc8861d00f87462be6fba3fa3aab32"
+    },
+    {
+      "name": "熊の猪猪日常贴贴",
+      "file": "熊绵の猪猪日常贴贴.bdi",
+      "thumb": "熊绵の猪猪日常贴贴.bdi_py_26_light_thumb.png",
+      "full": "熊绵の猪猪日常贴贴.bdi_py_26_light_thumb.png",
+      "file_id": "6981deacdd9e5cc7e29373e56e93815b"
     }
   ]
 }
